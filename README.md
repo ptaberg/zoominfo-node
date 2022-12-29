@@ -11,7 +11,7 @@ The easiest way to install zoominfo is using [NPM](https://www.npmjs.com/package
 your project directory to install the library.
 
 ```bash
-npm install zoominfo-node
+npm i git+https://github.com/ptaberg/zoominfo-node
 ```
 
 Then in your code:
